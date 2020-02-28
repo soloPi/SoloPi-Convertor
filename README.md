@@ -47,6 +47,16 @@ SoloPi 用例转化工具，支持将 SoloPi JSON 用例转化为其他自动化
 
 [版权声明](NOTICE.md)
 
+### 内容讨论
+
+面向行业测试相关从业人员，对工具有什么意见或者建议的话也欢迎Issue、PR或加群讨论。
+
+- 钉钉群（一群已满，请添加二群）：
+
+![group](https://gw.alipayobjects.com/mdn/rms_e29b5f/afts/img/A*K6wzRZfxDv8AAAAAAAAAAABkARQnAQ)
+
+* 除了钉钉群外，我们在TesterHome也有相关板块，可以在社区里留言回复 https://testerhome.com/topics/node152
+
 ## Contribution (参与贡献)
 
    独乐乐不如众乐乐，开源的核心还是在于技术的分享交流，当你对开源项目产生了一些想法时，有时还会有更加Smart的表达方式，比如(Thanks to uiautomator2)：
