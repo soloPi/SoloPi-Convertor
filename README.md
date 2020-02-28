@@ -45,6 +45,8 @@ SoloPi 用例转化工具，支持将 SoloPi JSON 用例转化为其他自动化
 
 [SoloPi 自动化测试工具](https://github.com/alipay/SoloPi)
 
+[版权声明](NOTICE.md)
+
 ## Contribution (参与贡献)
 
    独乐乐不如众乐乐，开源的核心还是在于技术的分享交流，当你对开源项目产生了一些想法时，有时还会有更加Smart的表达方式，比如(Thanks to uiautomator2)：
