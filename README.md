@@ -25,6 +25,7 @@ SoloPi 用例转化工具，支持将 SoloPi JSON 用例转化为其他自动化
 
 ## Getting Started （必看）
 
+0. 在SoloPi设置里，将`用例加密秘钥`设置为空，然后在用例列表中长按导出用例
 1. 执行入口 `python3 handler.py`
 2. 输入 SoloPi 脚本地址
 3. 选择转化类型（目前支持 Appium 和 Macaca ）
