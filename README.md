@@ -1,5 +1,8 @@
 # SoloPi-Converter
 
+## Thanks
+感谢前期参与SoloPi脚本转化工作的同学：https://testerhome.com/topics/20346 
+
 ## Introduction (简介)
 
 SoloPi 用例转化工具，支持将 SoloPi JSON 用例转化为其他自动化脚本语言，目前支持转化为 Appium 和 Macaca 脚本。
